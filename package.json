@@ -5,7 +5,7 @@
     "description": "A demo project for keycloakify",
     "repository": {
         "type": "git",
-        "url": "git://github.com/garronej/keycloakify-demo-app.git"
+        "url": "git://github.com/Copystrike/keycloakify-tailwind-theme.git"
     },
     "scripts": {
         "build": "react-scripts build",
@@ -15,12 +15,9 @@
         "eject": "react-scripts eject"
     },
     "keycloakify": {
-        "extraPages": [
-            "my-extra-page-1.ftl",
-            "my-extra-page-2.ftl"
-        ]
+        "extraPages": []
     },
-    "author": "u/garronej",
+    "author": "u/garronej & Copystrike",
     "license": "MIT",
     "keywords": [],
     "dependencies": {
