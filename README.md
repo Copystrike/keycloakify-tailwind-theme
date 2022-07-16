@@ -8,6 +8,15 @@ This project is a fork from [Keycloakify-demo-app#look_and_feel](https://github.
 The reason I went with the component level customization is so that I have more control over the looks and feel.
 
 
+![Preview](https://i.imgur.com/g08Th8D.png)
+
+(You can also just do `classname={"text-red-300"}` but this is just an example)
+
+# Requirements
+
+Linux environment, or you will not be able to run "yarn keycloak" (Which is essential)
+If you do not have a linux machine I recommend you to checkout github codespace which works perfectly! (I use it, and I am not complaining about it)
+
 # Issues
 
 If you found any issue with this project, please open an issue!
