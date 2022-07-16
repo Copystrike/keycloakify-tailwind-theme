@@ -23,5 +23,5 @@ The project comes with tailwind installed and configured, but is not used. The d
 
 1. When desinging a page you I highly recommend to checkout [docs.keycloakify.dev/developpement](https://docs.keycloakify.dev/developpement) for a better design expirience.
 
-1. When designing for example login.tsx you should change doFetchDefaultThemeResources={true} in <Template> to false to avoid having the css of the default theme.
+1. When designing for example login.tsx you should change `doFetchDefaultThemeResources={true}` in `<Template>` to false to avoid having the css of the default theme.
 
