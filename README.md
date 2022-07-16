@@ -7,3 +7,5 @@ This project is a fork from [Keycloakify-demo-app#look_and_feel](https://github.
 
 I decided to go with the component level customization so that I have more control over the look and feel.
 
+d
+
